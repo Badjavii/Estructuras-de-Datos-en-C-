@@ -1,6 +1,6 @@
-#==Repositorio de Algoritmos y Estructuras de Datos==
+#==REPOSITORIO DE ESTRUCTURAS DE DATOS==
 
-Temas:
-->Listas
-->Pilas
-->Etc
+#TEMAS:
+- Listas
+- Pilas
+- Etc
